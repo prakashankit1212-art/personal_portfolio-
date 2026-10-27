@@ -1,0 +1,6 @@
+﻿PASTE YOUR WALLPAPER IMAGE HERE
+
+Copy your image into this folder and rename it to:
+menu-wallpaper.png
+
+It will appear as both the desktop wallpaper and the startup screen background.
